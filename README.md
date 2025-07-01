@@ -1,19 +1,19 @@
 # Project Title
 
-A brief description of your project.
+Sustainability Metrics
 
 ## Installation
 
-Instructions for installing your project.
+Use requirements.txt for the different packages installed during my project
 
 ## Usage
 
-How to use your project.
+You can use to automatically get sustainability metrics based on HVAC data
 
 ## Contributing
 
-Guidelines for contributing.
+Main Author: Aakarsh
 
 ## License
 
-This project is not licensed.  
+Uses no license as of yet. Will most probably use the MIT license. 
